@@ -29,16 +29,14 @@ DjangoCon Europe in Warsaw, 18th May 2013
 * @graup
 
 Dont Be Afraid To Commit - Cardiff, 8th June 2013
------------------------------------------
+-------------------------------------------------
 
 * Kieran Moore
+* Dan Pass <Daniel.antony.pass@googlemail.com>
+* Dale Bradley
+* Howard Dickins <hdickins@gmail.com> https://github.com/hdickins  
 
 I followed the tutorial online
 ==============================
 
-* Daniel Quinn - 18th May 2013
-
-Cardiff Dev Workshop - 8th June 2012
-------------------------------------
-* Howard Dickins <hdickins@gmail.com> https://github.com/hdickins  
-
+* Daniel Quinn - 18th May 2013  
